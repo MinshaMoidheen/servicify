@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67353207769",
+    "project_id": "servicifyccst",
+    "storage_bucket": "servicifyccst.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67353207769:android:84f6ccd09de9ac947c6fc8",
+        "android_client_info": {
+          "package_name": "com.ralfiz.servicify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyJ53sQ_szfw2IAqLu-ekUeyJw4yX2xgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
